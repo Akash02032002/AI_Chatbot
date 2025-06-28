@@ -1,7 +1,7 @@
 
 # AI Chatbot with Web Search
 
-## This project is a simple, yet powerful AI chatbot application built with a Python backend and a modern HTML/CSS/JavaScript frontend. The chatbot uses the DuckDuckGo Search API to provide intelligent, real-time responses to a wide range of user queries, going far beyond simple, hard-coded replies.
+#### This project is a simple, yet powerful AI chatbot application built with a Python backend and a modern HTML/CSS/JavaScript frontend. The chatbot uses the DuckDuckGo Search API to provide intelligent, real-time responses to a wide range of user queries, going far beyond simple, hard-coded replies.
 
 ![Screenshot 2025-06-28 231622](https://github.com/user-attachments/assets/e2465e60-3eda-4cb4-9c8a-3b8d267f3174)
 
